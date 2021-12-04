@@ -1,2 +1,2 @@
-# quiz-app-lesson-two
-#Mark-two
+# quiz-app-lesson-two-Mark-two
+This repository is CLI based quiz app where it asks few questions about big bang theory series
